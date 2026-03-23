@@ -1,0 +1,15 @@
+# Ignorar bases de datos locales y logs
+logs/
+plugins/
+*.db
+
+# Ignorar entorno de Docker
+.env
+docker-compose.override.yml
+
+# Ignorar archivos de sistema y temporales
+__pycache__/
+.vscode/
+.DS_Store
+
+config/google_key.json
