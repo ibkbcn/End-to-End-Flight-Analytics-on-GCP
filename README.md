@@ -16,7 +16,6 @@ El pipeline orquestado por **Apache Airflow** realiza las siguientes etapas:
 * **Cloud:** Google Cloud Platform (BigQuery & GCS)
 * **Lenguajes:** Python (Pandas, Requests) & SQL
 * **Contenedores:** Docker & Docker Compose
-* **Seguridad:** GitIgnore para protección de Service Accounts y API Keys.
 
 ## Configuración y Ejecución
 
