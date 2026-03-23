@@ -1,6 +1,6 @@
 # ✈️ End-to-End Flight Analytics on GCP
 
-Este proyecto es un pipeline de ingeniería de datos robusto que integra datos históricos y en tiempo real de vuelos utilizando una arquitectura **Medallion** (Bronze/Silver). 
+Este proyecto es un pipeline de ingeniería de datos que integra datos históricos y en tiempo real de vuelos utilizando una arquitectura **Medallion** (Bronze/Silver). 
 
 ## Arquitectura del Proyecto
 El pipeline orquestado por **Apache Airflow** realiza las siguientes etapas:
